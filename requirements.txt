@@ -1,4 +1,4 @@
-aiogram
-bs4
-pyQiwiP2P
-requests
+aiogram==2.13
+bs4==0.0.1
+pyQiwiP2P==1.0
+requests==2.25.1
