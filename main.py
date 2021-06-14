@@ -1,5 +1,4 @@
 # - *- coding: utf- 8 - *-
-heroku logs --tail
 import asyncio
 
 from aiogram import executor
